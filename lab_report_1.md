@@ -7,7 +7,7 @@ Once you find your account, reset the password by following the instructions
 ## Step 2: VSCode
 If not already installed, follow the instructions on the VSCode Website [Link](https://code.visualstudio.com/) to install VSCode.
 After installation, you should be able to open the application and upon opening, see a window similar to the following:
-![Image](VSCode-SC.png)
+![Image](VSCode_Home.png)
 
 
 ## Step 3: Remotely Connecting
@@ -19,8 +19,8 @@ Once you are logged in, you should see something like this:
 
 ## Step 4: Testing Commands
 After logging in, try running some commands such as "cd ~", "cd", "ls -lat", "ls -a" on the remote computer. Next, try to run the same commands on your computer. Running a command on the remote computer should look similar to this:
-![Image](Test-Command(Remote).png)
+![Image](Test_Command(REMOTE).png)
 
 While running a command on your computer can look like this:
 
-![Image](Test-Command.png)
+![Image](Test_Command.png)
