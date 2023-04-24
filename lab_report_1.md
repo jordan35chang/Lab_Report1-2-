@@ -13,7 +13,7 @@ After installation, you should be able to open the application and upon opening,
 
 ## Step 3: Remotely Connecting
 Since I am using a Mac, git does not need to be installed and instead can move on to opening the terminal in VSCode(View -> Terminal)
-After opening the terminal, input the command(not including the $, and replacing zz with the letters of your account): \n
+After opening the terminal, input the command(not including the $, and replacing zz with the letters of your account):
 $ ssh cs15lsp23zz@ieng6.ucsd.edu
 Once you are logged in, you should see something like this:
 ![Image](LOGIN.png)
